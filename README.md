@@ -25,7 +25,7 @@ ai를 활용하여 간단한 웹페이지를 제작한 후, ai 생성 원본을 
 - 이미지 추가
 
 ### Problem & Solution
--Vercel에서 배포된 주소로 들어가도 index2.html은 보이지 않고 index.html만 보여서 배포에 문제가 생긴 줄 알았다.
+- Vercel에서 배포된 주소로 들어가도 index2.html은 보이지 않고 index.html만 보여서 배포에 문제가 생긴 줄 알았다.
 - index2.html은 직접 주소를 입력해야 들어갈 수 있다는 것을 알게 되었다.
 
 ### Reflection
